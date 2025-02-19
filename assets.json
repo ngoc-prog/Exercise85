@@ -1,0 +1,44 @@
+[
+    {
+        "AssetId": "AS1",
+        "AssetName": "Máy chiếu 1",
+        "ImportYear": 2017,
+        "Value": 18
+    },
+    {
+        "AssetId": "AS2",
+        "AssetName": "Máy chiếu 2",
+        "ImportYear": 2017,
+        "Value": 17
+    },
+    {
+        "AssetId": "AS3",
+        "AssetName": "Máy tính 1",
+        "ImportYear": 2024,
+        "Value": 20
+    },
+    {
+        "AssetId": "AS4",
+        "AssetName": "Máy tính 2",
+        "ImportYear": 2019,
+        "Value": 20
+    },
+    {
+        "AssetId": "AS5",
+        "AssetName": "Máy ảnh 1",
+        "ImportYear": 2018,
+        "Value": 10
+    },
+    {
+        "AssetId": "AS6",
+        "AssetName": "Máy ảnh 2",
+        "ImportYear": 2018,
+        "Value": 5
+    },
+    {
+        "AssetId": "AS7",
+        "AssetName": "Xe hơi ",
+        "ImportYear": 2021,
+        "Value": 100
+    }
+]
